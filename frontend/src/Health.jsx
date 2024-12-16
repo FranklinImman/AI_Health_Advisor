@@ -23,7 +23,7 @@ const Health = () => {
         setMessage(res.data.message || 'Login failed. Please try again.');
       }
     } catch (err) {
-      setMessage('An error occurred. Please try again.');
+      setMessage('Login failed. Please try again.');
     }
   };
 
