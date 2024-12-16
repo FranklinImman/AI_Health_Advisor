@@ -28,7 +28,7 @@ const AboutPage = () => {
         <div className="col-md-8">
           <h1 className="mb-4">About Me</h1>
           <p>
-            Hi, I'm <strong>Your Name</strong>. I'm a passionate software developer 
+            Hi, I'm <strong>Krish Pugazh</strong>. I'm a passionate software developer 
             and problem solver. I specialize in backend development, web development, 
             and AI technologies. When I'm not coding, you'll find me playing piano, 
             enjoying a good chess game, or experimenting with new technologies.
